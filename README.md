@@ -44,4 +44,4 @@ This project was developed as a personal project using **Python, Streamlit, and 
 5. The application collects all the selected travel preferences.
 6. These preferences are sent to the **Google Gemini API** through a structured AI prompt.
 7. Gemini generates a personalized **day-by-day travel itinerary**.
-8. The application displays the itinerary along with **activities, food suggestions, estimated expenses, and travel tips**.
+8. The application displays the itinerary along with **activities, food suggestions, estimated expenses, and travel tips**. 
