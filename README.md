@@ -47,10 +47,10 @@ This project was developed as a personal project using **Python, Streamlit, and 
 8. The application displays the itinerary along with **activities, food suggestions, estimated expenses, and travel tips**.
 
 
- ## 📸 Project Screenshot
+## 📸 Project Screenshot
 
 ### 🏠 Home Screen
 
 The home screen provides a simple and user-friendly interface where users can enter their travel preferences and generate a personalized travel plan.
 
-![AI Smart Travel Planner Home Screen](screenshots/Home Page.jpeg)
+![AI Smart Travel Planner Home Screen](screenshots/Home%20Page.jpeg)
